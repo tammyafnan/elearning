@@ -1,14 +1,7 @@
 <?php
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
-/*
- *  @author     : Creativeitem
- *  date        : 14 september, 2017
- *  Specification    :    Mobile app response, JSON formatted data for iOS & android app
- *  Ekattor School Management System Pro
- *  http://codecanyon.net/user/Creativeitem
- *  http://support.creativeitem.com
- */
+
 class Mobile extends CI_Controller
 {
     function __construct()
